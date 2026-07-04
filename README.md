@@ -71,18 +71,23 @@
    使用本系统时，打开即可显示首页，首页界面如图1，图2所示。
 <img width="324" height="716" alt="image" src="https://github.com/user-attachments/assets/6a5f3d03-3296-4555-b973-56648b2048ce" />
 <img width="332" height="736" alt="image" src="https://github.com/user-attachments/assets/fd35346f-731a-4080-9d34-e1e83dccdd84" />
+
 - 2.添加页
    使用本系统时，打开后点击底部导航栏中间加号即可显示添加页，添加页界面如图1所示。
 <img width="266" height="592" alt="image" src="https://github.com/user-attachments/assets/c7da8df0-0862-40d4-ada7-cda2ab4873aa" />
+
 - 3.编辑页
    使用本系统时，打开后点击单个卡片进入详细页点击右上角修改按钮即可显示编辑页，编辑页界面如图1所示。
 <img width="234" height="520" alt="image" src="https://github.com/user-attachments/assets/745d8892-b8a4-4b31-bae6-051161b62575" />
+
 - 4.汇率计算器页
    使用本系统时，打开后点击底部导航栏处汇率按钮即可显示汇率页，汇率页界面如图1所示。
 <img width="234" height="520" alt="image" src="https://github.com/user-attachments/assets/fe502c5b-5b61-4589-94a7-97dd5c6f5a63" />
+
 - 5.翻译页
    使用本系统时，打开后点击底部导航栏处翻译按钮即可显示翻译页，翻译页界面如图1所示。
 <img width="234" height="520" alt="image" src="https://github.com/user-attachments/assets/be1ed991-c0c4-4233-9dd5-7b614764733f" />
+
 - 6.天气页
    使用本系统时，打开后点击底部导航栏处天气按钮即可显示天气页，天气页界面如图1,图2所示。
 <img width="254" height="562" alt="image" src="https://github.com/user-attachments/assets/1a28f564-446a-43aa-ba11-51fce44fa797" />
